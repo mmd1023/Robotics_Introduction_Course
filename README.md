@@ -1,4 +1,4 @@
-# Robotics Course Term 1
+# Robotics Course – Term 1
 
 ## Final Robot
 
@@ -6,35 +6,50 @@
 
 ![1782403119563](image/README/1782403119563.png)
 
+---
+
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
 
-## About `<a name = "about"></a>`
+---
 
-In the first semester of introductory robotics, students get to know the basics of robotics and how robots work at a basic level.
-Arduino IDE and C++ language are used in this course.
-Each week is related to setting up different components of a robot and setting up different modules and sensors.
-And finally, the final project of the course includes designing the PCB of the robot and programming the router robot.
+## About
 
-## Getting Started `<a name = "getting_started"></a>`
+In the first semester of the introductory robotics course, students learn the fundamentals of robotics and how robots operate at a basic level.
+
+- **Programming Environment:** Arduino IDE  
+- **Language:** C++  
+
+Each week focuses on setting up different robot components, modules, and sensors.  
+The final project involves designing the robot's PCB and programming the router robot.
+
+---
+
+## Getting Started
 
 ### Prerequisites
 
-You need to know C++ programming at least at an introductory level.`<br>`
-To understand the circuits, it is better to know a little electronics, although the circuits are simple and the projects are modular.`<br>`
-After that you need to install Arduino IDE.
+- Basic knowledge of C++ programming (introductory level is sufficient).  
+- Familiarity with basic electronics is helpful, though not required—circuits are simple and modular.
 
 ### Installing
 
-Download and install [Arduino IDE v2](https://www.arduino.cc/en/software). It's C++ IDE for Arduino, ESP, ... boards.`<br>`
-Download and install [Altium Designer](https://soft98.ir/software/engineering/3575-%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%84%D8%AA%DB%8C%D9%88%D9%85-%D8%AF%DB%8C%D8%B2%D8%A7%DB%8C%D9%86%D8%B1.html) for design your robot's PCB.
+1. **Arduino IDE v2** – Download and install from [here](https://www.arduino.cc/en/software). This IDE supports Arduino, ESP, and other boards.  
+2. **Altium Designer** – Download and install from [here](https://soft98.ir/software/engineering/3575-%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%84%D8%AA%DB%8C%D9%88%D9%85-%D8%AF%DB%8C%D8%B2%D8%A7%DB%8C%D9%86%D8%B1.html) for designing the robot's PCB.
 
-## Usage `<a name = "usage"></a>`
+---
 
-First, it is better to read the slides in the slide folder of each week.`<br>`
-Next, close the circuit from the Russian circuit schematic in the files folder in each week.`<br>`
-Finally, upload the code to Arduino and test the circuit. Be sure to try to understand the codes yourself and even change them a little.`<br>`
-Go ahead!
+## Usage
+
+Follow these steps week by week:
+
+1. **Review the slides** – Located in the `slides` folder for each week.  
+2. **Build the circuit** – Use the schematic diagrams provided in the `files` folder.  
+3. **Upload and test** – Load the code onto the Arduino and test the circuit.  
+
+> 💡 **Tip:** Try to understand the code thoroughly and experiment by making small changes.  
+
+Good luck and have fun!
